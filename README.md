@@ -35,7 +35,3 @@ python -m src.pipeline
 streamlit run dashboard/app.py
 ```
 
-## Resume Version
-Business Metric Anomaly Detection System | Python, Isolation Forest
-- Built an unsupervised anomaly detection system using Isolation Forest, STL decomposition, and rolling Z-score logic to identify abnormal spikes and drops in business time-series metrics.
-- Developed a Streamlit monitoring dashboard to visualize anomalies and operational alerts across website traffic, orders, revenue, and app usage.
